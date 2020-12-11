@@ -1,5 +1,6 @@
 # tasks2020-fundamentals
 README
+                                                               
                                                                Introduction
                                                                   
 Tasks2020 Assignment contains four different tasks, including Python function called counts for transforming inputs list outputs to a dictionary, Python function called dicerolls that simulates rolling dice, Python code that simulates flipping a coin 100 times, and  Simpson’s paradox demonstration using Numpy.
