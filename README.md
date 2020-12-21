@@ -123,3 +123,8 @@ plt.plot(x1, y1, '.', label="Data set 1") plt.plot(x1, coeffs1 [0] * x1 + coeffs
 
 References about the above task are included within the Jupyter Notebook.
 
+sns.regplot(x = x3, y = x4) # Demonstrate the Simpson's paradox combining parameters of different groups(see reference 1)
+(Should be read see reference 7 as this was done prior putting references in alpgabetic order).
+
+sns.regplot( x = x4, y = y4)# Plot data and a linear regression model fit[ see reference [4]
+(Should be read see reference 6 as this was done prior putting references in alpgabetic order).
